@@ -4,5 +4,7 @@
 ## Submission files.
 
 [writeup](writeup.md)
+
 [html](Traffic_Sign_Classifier.html)
+
 [notebook](Traffic_Sign_Classifier.ipynb)
